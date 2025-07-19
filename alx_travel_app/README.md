@@ -1,0 +1,1 @@
+django configuration for alx_travel_app
